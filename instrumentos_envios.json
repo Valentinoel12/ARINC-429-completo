@@ -1,0 +1,19 @@
+{
+  "instruments": [
+    {
+      "id": "0ce14270",
+      "name": "Altimetro",
+      "minimum": 10.0,
+      "maximum": 50000.0,
+      "label": 131,
+      "sdi": 1
+    }
+  ],
+  "shipments": [
+    {
+      "id": "06703d80",
+      "instrument_id": "0ce14270",
+      "value": 1010.0
+    }
+  ]
+}
